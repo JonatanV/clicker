@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;       
+    color:white;
+    background-color: black;
+}
+#bank{
+    font-size: 2em;
+
+}
+#game{
+    background-color: #b7ff00;
+    color: black; 
+    font-size: 6em;
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+}
+#game:focus{
+    outline: 0px;
+}
