@@ -1,25 +1,45 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     text-align: center;
+    background-color: #233d4d;
 }
 button{
     height: 100px;
     width: 100px;
     border-radius: 50px;       
-    color:white;
-    background-color: black;
+    color:#ffffff;
+    background-color: #6320ee;
+    margin-right: 10px;
+    margin-top:0px; 
 }
 #bank{
     font-size: 2em;
+    color: #ffffff;
 
 }
 #game{
-    background-color: #b7ff00;
-    color: black; 
+    background-color: #45f0df;
+    color: #6320ee; 
     font-size: 6em;
     height: 400px;
     width: 400px;
-    border-radius: 200px;
+    border-radius: 100px;
+    margin-bottom: 5px; 
 }
 #game:focus{
     outline: 0px;
 }
+#game:active{
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+}
+/*
+#45f0df
+#2334d
+#fffff
+#6320ee
+#183642
+*/
