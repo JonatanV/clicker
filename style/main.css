@@ -12,21 +12,28 @@ button{
     color:#ffffff;
     background-color: #6320ee;
     margin-right: 10px;
-    margin-top:0px; 
+    margin-top:0px;
+    font-family: 'Merriweather Sans', sans-serif; 
 }
 #bank{
     font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
 
 }
 #game{
     background-color: #45f0df;
     color: #6320ee; 
-    font-size: 6em;
+    font-size: 5em;
+    font-family: 'Montserrat Subrayada', sans-serif;
     height: 400px;
     width: 400px;
     border-radius: 100px;
     margin-bottom: 5px; 
+    background-image: url('../img/3498.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
 }
 #game:focus{
     outline: 0px;
@@ -42,4 +49,9 @@ button{
 #fffff
 #6320ee
 #183642
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Merriweather Sans', sans-serif;
+
+    font-family: 'Montserrat Subrayada', sans-serif;
 */
