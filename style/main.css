@@ -6,9 +6,9 @@ body{
     background-color: #233d4d;
 }
 button{
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;       
+    height: 125px;
+    width: 125px;
+    border-radius: 75px;       
     color:#ffffff;
     background-color: #6320ee;
     margin-right: 10px;
@@ -30,7 +30,7 @@ button{
     width: 400px;
     border-radius: 100px;
     margin-bottom: 5px; 
-    background-image: url('../img/3498.jpg');
+    background-image: url(../img/3498.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
